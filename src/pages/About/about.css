@@ -1,0 +1,6 @@
+
+.personal-info-container {
+    display: flex;
+    /* justify-content :first baseline; */
+    gap: 30px;
+}

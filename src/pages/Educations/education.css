@@ -1,0 +1,17 @@
+.education-section {
+    margin: 0px 50px;
+}
+
+.education-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.education-table th,td {
+    text-align: left;
+    padding: 8px;
+}
+
+.education-table tr:nth-child(even) {
+    background-color: Lightgreen;
+}

@@ -1,0 +1,23 @@
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.skill-item-container {
+    background-color: rgb(187, 187, 187);
+    width: 300px;
+}
+
+.skill-item-text {
+    text-align: right;
+    padding: auto;
+    color: #f9f7f7;
+}
+
+.php {width: 90%; background-color: #04AA6D;}
+.ci {width: 90%; background-color: #2196F3;}
+.js {width: 80%; background-color: #f44336;}
+.node {width: 70%; background-color: hsl(226, 56%, 33%);}
+.react {width: 70%; background-color: #c5ad11;}
+.mongo {width: 70%; background-color: #99317a;}

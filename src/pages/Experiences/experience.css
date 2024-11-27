@@ -1,0 +1,29 @@
+.experience-block {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 10px 50px;
+}
+
+.experience-block .exp-duration {
+    width: 30%;
+    box-sizing: border-box;
+    max-width: 29%;
+    word-break: break-all;
+}   
+
+.experience-block .exp-duration .duration {
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 4px;
+}   
+
+.experience-block .exp-description-section {
+    border-left: 2px solid maroon;
+    padding: 10px 20px;
+}   
+
+.experience-block .exp-description-section .exp-position {
+    font-weight: 600;
+} 
+

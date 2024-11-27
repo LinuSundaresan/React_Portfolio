@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkblue;
+    width: 100%;
+    max-width: 100%;
+}
+
+nav .LogoArea{
+    align-items: center;
+}
+
+
+nav .menu {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+nav .menu i {
+    font-size: 16px;
+    align-items: center;
+}
+
