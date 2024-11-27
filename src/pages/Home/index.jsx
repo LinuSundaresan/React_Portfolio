@@ -52,7 +52,6 @@ return (
       </div>
     </div>
 
-
     <div className="experience-block">
       <div className="exp-duration">
           <p className='duration'>Dec 2020 to Apr 2021</p>
